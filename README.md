@@ -1,4 +1,4 @@
-# Digital IC Design Note by***MWChang***
+# Digital IC Design Note by ***MWChang***
 ###### tags: `dic2023`
 
 :pushpin: 這個課程筆記主要參考成功大學的資工所「數位IC設計」課程PPT與授課老師陳培殷的講課內容，並從一些網路資源彙整一些關於數位IC設計的背景知識。
