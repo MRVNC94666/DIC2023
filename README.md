@@ -5,7 +5,7 @@
 
 ## **Outline**
 
-### *Homework 1: Max-Min Selector*
+### [*Homework 1: Max-Min Selector*](https://hackmd.io/@mwchangworkin/r1gVLQQgn)
 
 ### *Homework 2: Rails*
 
