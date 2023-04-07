@@ -5,10 +5,10 @@
 
 ## **Outline**
 
-### +*Homework 1: Max-Min Selector*+
+### *Homework 1: Max-Min Selector*
 
-### +*Homework 2: Rails*+
+### *Homework 2: Rails*
 
-### +*Homework 3:  Arithmetic Expression Calculator*+
+### *Homework 3:  Arithmetic Expression Calculator*
 
 ### 
