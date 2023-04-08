@@ -1,14 +1,10 @@
 # Digital IC Design Homeworks by ***MWChang***
 ###### tags: `dic2023`
 
-:pushpin: 此repo記錄我修習國立成功大學資工所「數位IC設計」課程之作業內容，題目說明與我的程式碼將在各個作業資料夾中呈現。
+:pushpin: 此repo記錄本人修習國立成功大學資工所「數位IC設計」課程之作業內容，以及一些整理好的基礎筆記。
 
-## **Outline**
 
-### [*Homework 1: Max-Min Selector*](https://hackmd.io/@mwchangworkin/r1gVLQQgn)
-
-### *Homework 2: Rails*
-
-### *Homework 3:  Arithmetic Expression Calculator*
-
-### 
+- [***Notes***](https://hackmd.io/@mwchangworkin/HkYKVzXx2)
+- [*Homework 1: Max-Min Selector*](https://hackmd.io/@mwchangworkin/r1gVLQQgn)
+- [*Homework 2: Rails*]()
+- [*Homework 3:  Arithmetic Expression Calculator*]()
