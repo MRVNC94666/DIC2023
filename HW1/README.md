@@ -18,8 +18,12 @@ and its specifications of I/O interface is listed in Table III. In this homework
 ![](https://i.imgur.com/yfq8Rys.png)
 
 ## ***Thinking process***
-4MMS的部分，利用`if/else`切割求max和求min的情形，而statement內就逐一比大小，max部分最終會由最大的(若相等就排序較小的)input來作為result output。
-而8MMS的部分就照作業要求提供的方法，把兩個4MMS出來的值依照select的情況，再做一次比較並輸出最大或最小值。
+&emsp;我的設計是比較直觀的，4-MMS一開始先以if else的方式判斷select，確認要找最大值還是最小值後，就以簡單的 ( ) ? ( ) : ( ) 運算來逐一比大小，8-MMS的部分則是利用4-MMS的實體來計算兩個結果(前四與後四個輸入)，接著就一樣以if/else來區分select，然後以condition運算來比較。
+&emsp;其實我花了很多時間在嘗試利用case的方式或利用dataflow的方式來達成，但我發現只要需接wire就非常容易出錯，要以更接近structure描述的方式來設計電路的話對RTL coding的熟悉度要求更高一些，所以我最終沒能在時間內設計出更好的電路，只能用比較接近在寫C語言的方式來達成目的，這點希望以後能夠進步，不然我想這次設計的IC對於Min Max Selection來說成本應該有點浪費。
+/* 心得 */
+&emsp;這次花了很多時間在解決無法讀取檔案的error，後來是上網查別人的作法是把所有要用的檔案放在與modelsim.exe同一個目錄下(C:\intelFPGA\20.1\modelsim_ase\win32aloem)，才能成功開始模擬，並知道我的code有沒有寫對。
+&emsp;還有我利用`include “MMS_4num.v”`的方式加入4-MMS的module也沒有成功，後來是直接把MMS_4num.v的code複製到MMS_8num.v內才成功all pass。
+&emsp;經過這次作業，儘管對Verilog還是很陌生，過程也跌 跌撞撞，但模擬完all pass還是蠻開心的，希望以後能從數位IC設計菜雞變成至少略知一二的正常人。
 
 ## ***Code***
 
