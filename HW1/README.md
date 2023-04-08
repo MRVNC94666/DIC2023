@@ -1,7 +1,5 @@
-# DIC2023 HW1 : Max-Min Selector
-###### tags: `dic2023`
-
-## ***Goal***
+## ***Problem***
+### **Introduction**
 &emsp;&emsp;The Max-Min selector (MMS) is a combinational circuit that can output the maximum or minimum value of a set of numbers. In this homework, you are required to design a 4-input MMS circuit, which determines the maximum or minimum value among four input numbers. The 4-input MMS circuit is then used to constitute an 8-input MMS circuit. The specifications and function of the 4-input MMS and the 8-input MMS are detailed in the following sections. 
 
 ### **The 4-input MMS**
