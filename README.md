@@ -1,7 +1,7 @@
 # Digital IC Design Note by ***MWChang***
 ###### tags: `dic2023`
 
-:pushpin: 此repo記錄本人修習國立成功大學資工所陳培殷老師的「數位IC設計」課程之作業內容以及一些筆記。
+:pushpin: 此repo記錄本人修習國立成功大學資工所陳培殷老師的「數位IC設計」課程之作業內容以及一些基礎章節的筆記。
 
 ---
 ## **0. Homeworks**
