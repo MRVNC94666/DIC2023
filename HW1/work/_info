@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/marvi/Marvin/NCKU CCE/111-2/Digital_IC/HW2
+vMMS_4num
+Z0 !s110 1681557570
+!i10b 1
+!s100 m>?n9NROEo6c5Q6;il[E<2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IAoe2;c[aa8zzX[;SD=`:63
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/marvi/Marvin/NCKU CCE/111-2/Digital_IC/HW1
+w1681557525
+8C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_4num.v
+FC:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_4num.v
+!i122 4
+L0 1 48
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1681557570.000000
+!s107 C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_4num.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_4num.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@m@m@s_4num
+vMMS_8num
+R0
+!i10b 1
+!s100 G2W1QB@MbXEI7G7:eA4o72
+R1
+IH43Q6_5Y_LoIRaOG:5M]83
+R2
+R3
+w1681557566
+8C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_8num.v
+FC:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_8num.v
+!i122 5
+L0 1 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_8num.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_8num.v|
+!i113 1
+R6
+R7
+n@m@m@s_8num
+vMMS_tb
+!s110 1681557571
+!i10b 1
+!s100 NZKCGgdeO;a=dW8J=eJFN3
+R1
+IfCZ88CEMQLXlN:hAIR9UM2
+R2
+R3
+w1678803536
+8C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_tb.v
+FC:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_tb.v
+!i122 6
+L0 8 180
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\marvi\Marvin\NCKU CCE\111-2\Digital_IC\HW1\MMS_tb.v|
+!i113 1
+R6
+R7
+n@m@m@s_tb
